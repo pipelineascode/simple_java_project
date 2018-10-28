@@ -21,7 +21,7 @@ public class CalculatorTest {
 	
 		Calculator calculator = new Calculator();
 		int result = calculator.minus(4, 1);
-		assertEquals(3, result);
+		assertEquals(4, result);
 		
 	}
 	
